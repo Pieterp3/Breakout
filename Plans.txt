@@ -1,0 +1,19 @@
+Breakout
+
+*Will be two player
+
+1. Blocks come down from top  of screen
+2. Player is a paddle on bottom of screen
+3. A ball starts on the players paddle
+4. Round starts when player presses space
+5. Ball bounces off of walls and breaks blocks
+6. Round lost when ball hits underneath players paddle
+7. Points given for breaking bricks
+
+-----------------------
+
+1. Give player lives
+2. Make bricks stronger and come faster for more points
+3. Power ups
+4. 2 Player
+5. Highscores
