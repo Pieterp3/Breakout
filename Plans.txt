@@ -1,7 +1,5 @@
 Breakout
 
-*Will be two player
-
 1. Blocks come down from top  of screen
 2. Player is a paddle on bottom of screen
 3. A ball starts on the players paddle
